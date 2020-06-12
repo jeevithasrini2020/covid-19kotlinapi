@@ -1,2 +1,2 @@
 # proj1
-dataproject
+Covid-19 sample work
